@@ -1,0 +1,9 @@
+red,10
+blue,2
+green,3
+orange,11
+yellow,9
+pink,8
+yellow,20
+pink,20
+blue,10
