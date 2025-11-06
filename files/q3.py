@@ -1,0 +1,1 @@
+#write a code that calculates the same of all individual numbers in file2.txt
